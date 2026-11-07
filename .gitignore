@@ -1,0 +1,12 @@
+# This repository is for documentation only; installers belong in Releases.
+*.dmg
+*.zip
+*.p8
+*.p12
+*.key
+*.enc
+*.sqlite*
+.env*
+node_modules/
+src/
+electron/
