@@ -9,7 +9,7 @@
 
 ## 安装
 
-从 [Releases](https://github.com/JavaApes/yuan/releases/latest) 下载 DMG，打开后将 Yuan.app 拖到 Applications，再弹出镜像，从“应用程序”启动。
+从 [Releases](https://github.com/JavaApes/yuan/releases/tag/v0.5.0) 下载 DMG，打开后将 Yuan.app 拖到 Applications，再弹出镜像，从“应用程序”启动。
 
 ## 首次打开时的系统提示
 
