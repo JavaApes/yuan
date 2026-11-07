@@ -2,7 +2,7 @@
 
 Yuan 是面向个人投资学习与公司研究的 **终端 Agent**。通过对话调用 LLM 和研究工具，获取公开财报、分析公司经营数据，并结合自己的资料整理研究成果。
 
-**使用前需要自备 API Key。** Yuan 不提供共享密钥或模型额度；模型调用需要网络，费用由你选择的模型服务商收取。
+**使用前需要自备 API Key。** Yuan 不提供共享密钥或模型额度
 
 **[下载安装包](https://github.com/JavaApes/yuan/releases/tag/v0.5.0) · [安装与使用](INSTALL.md) · [版本记录](CHANGELOG.md)**
 
