@@ -28,7 +28,7 @@ Yuan grew from that need. I want it to help me understand questions and preserve
 
 This repository's documentation is available in Chinese and English. Use the links at the top of either README to switch.
 
-The local development build now includes Chinese and English interfaces. Open **Agent settings → Interface language**, choose **English** or **中文**, then apply. Yuan reloads the interface and remembers the choice. Chat drafts are retained; save other settings before switching. Your documents, notes and past conversations keep their original language.
+The local development build includes Chinese and English interfaces. Open **Agent settings → Interface language** and choose **English** or **中文**. The choice applies immediately without an Apply button, confirmation or reload. The settings window, chat drafts and unsaved edits stay in place, and the choice persists after restarting. English navigation uses concise labels that fit a narrow sidebar. Your documents, notes and past conversations keep their original language.
 
 The Agent can respond in any language you request or use. The interface language is only its fallback. The English default `AGENTS.md` follows the same policy; custom instructions are preserved.
 
