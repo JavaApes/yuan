@@ -2,7 +2,7 @@
 
 一款面向个人投资学习与公司研究的 Mac 桌面应用。和小元讨论问题，结合自己的财报、书籍与笔记，把学习过程整理成可以回看的资料与成果。
 
-**[下载安装包](https://github.com/JavaApes/yuan/releases/latest) · [安装与使用](INSTALL.md) · [版本记录](CHANGELOG.md)**
+**[下载安装包](https://github.com/JavaApes/yuan/releases/tag/v0.5.0) · [安装与使用](INSTALL.md) · [版本记录](CHANGELOG.md)**
 
 ## 可以做什么
 
@@ -16,7 +16,7 @@
 
 当前版本为 **v0.5.0 预览版**，支持 **Apple Silicon（M 系列）Mac，macOS 13 或更新版本**。当前安装包不支持 Intel Mac、Windows 或手机。
 
-1. 在 [Releases](https://github.com/JavaApes/yuan/releases/latest) 下载 `.dmg` 文件。
+1. 在 [Releases](https://github.com/JavaApes/yuan/releases/tag/v0.5.0) 下载 `.dmg` 文件。
 2. 打开 DMG，将 `Yuan.app` 拖入 `Applications`。
 3. 弹出安装磁盘，从“应用程序”打开 Yuan。
 4. 在 **Agent 设置 → 模型与思考** 中填写自己的 API Key。
