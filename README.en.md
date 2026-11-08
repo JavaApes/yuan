@@ -36,25 +36,19 @@ The Agent can respond in any language you request or use. The interface language
 
 ## Screenshots
 
-These screenshots show actual LLM web calls in the v0.5.0 package, using **Apple's public fiscal 2025 financial results**. They were captured in an isolated demonstration conversation without API Keys, account information or private research. The model responses were not prefilled.
+These are actual screenshots of the updated local development build with **English selected**, captured with isolated test data. They preview the English interface; they are not financial-analysis responses or evidence of live model calls. The public v0.5.0 installer has not yet been replaced with this build.
 
-### Retrieve and analyze financials
+### English home and research tools
 
-The Agent retrieves revenue, net income and services data, then explains growth drivers and risks that need further checking.
+Start a conversation and keep mind maps, timelines, comparisons and research notes alongside your learning.
 
-![Yuan retrieves and analyzes Apple's public financial results](images/03-financial-analysis.png)
+![Yuan home and research tools with the English interface selected](images/en/home.png)
 
-### Inspect tool activity
+### English research workspace
 
-Expand the reasoning and activity record to inspect the Agent's page-reading steps.
+Organize sources, notes and exercises around a research question.
 
-![Actual web calls and Agent activity in Yuan](images/04-agent-process.png)
-
-### Return to original sources
-
-Expand web sources to check official announcements and financial statements. This is a historical-report demonstration, not a claim about the latest results or investment advice.
-
-![Traceable official sources for the financial analysis](images/05-official-sources.png)
+![Yuan research workspace with English navigation and guidance](images/en/research-workspace.png)
 
 ## Download and install
 
