@@ -40,7 +40,7 @@ OpenAI 联网研究使用自己的 OpenAI Key。外部 MCP、行情与其他集�
 Release 同时提供 `.sha256` 文件。在终端中进入下载目录后执行：
 
 ```sh
-shasum -a 256 -c Yuan-0.5.0-macOS-AppleSilicon.dmg.sha256
+shasum -a 256 -c Yuan-0.5.2-macOS-AppleSilicon.dmg.sha256
 ```
 
 显示 `OK` 表示文件与发布的校验值一致；这不是 Apple 公证或安全审计。
