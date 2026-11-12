@@ -1,12 +1,19 @@
 # Yuan · 小元陪你学懂投资
 
+## v0.5.2 · 2026-11-12
+
+第二次公开预览版已发布。新增首页研究动态、阅读笔记、长期记忆和定时任务等功能。仅发布文档与安装包，不使用 Developer ID 证书，不做 Apple 公证。
+
+[版本说明与下载](https://github.com/JavaApes/yuan/releases/tag/v0.5.2)
+
+
 **简体中文** | [English](README.en.md)
 
 Yuan 是面向个人投资学习与公司研究的 **终端 Agent**。通过对话调用 LLM 和研究工具，获取公开财报、分析公司经营数据，并结合自己的资料整理研究成果。
 
 **使用前需要自备 API Key。** Yuan 不提供共享密钥或模型额度
 
-**[下载安装包](https://github.com/JavaApes/yuan/releases/tag/v0.5.0) · [安装与使用](INSTALL.md) · [版本记录](CHANGELOG.md)**
+**[下载安装包](https://github.com/JavaApes/yuan/releases/tag/v0.5.2) · [安装与使用](INSTALL.md) · [版本记录](CHANGELOG.md)**
 
 ## 为什么做 Yuan？
 
@@ -28,11 +35,11 @@ Yuan 就是从这个需求出发做的。我希望它能陪我把问题弄懂，
 
 本仓库说明支持中英文，点击页面顶部的 **English / 简体中文** 切换。
 
-本地开发版本已加入中英文界面：在 **Agent 设置 → 界面语言 / Language** 选择中文或 English 即刻生效，无需应用按钮、确认或重新载入。设置窗口、聊天草稿及未保存编辑保留，重启后沿用所选语言。英文导航采用简洁名称，适配窄侧栏。已有资料、笔记和对话保留原语言。
+v0.5.2 已加入中英文界面：在 **Agent 设置 → 界面语言 / Language** 选择中文或 English 即刻生效，无需应用按钮、确认或重新载入。设置窗口、聊天草稿及未保存编辑保留，重启后沿用所选语言。英文导航采用简洁名称，适配窄侧栏。已有资料、笔记和对话保留原语言。
 
 Agent 跟随用户请求或使用的语言交流，不限制语言；界面语言仅作偏好不明确时的默认值。英文默认 `AGENTS.md` 使用同一规则，已有自定义指令保留。
 
-**当前公开的 v0.5.0 安装包尚未替换为这个双语版本**，上述语言入口适用于更新后的本地版本。
+**v0.5.2 公开预览版已包含上述中英文界面。**
 
 ## 使用截图
 
@@ -58,9 +65,9 @@ Agent 跟随用户请求或使用的语言交流，不限制语言；界面语�
 
 ## 下载与安装
 
-当前版本为 **v0.5.0 预览版**，支持 **Apple Silicon（M 系列）Mac，macOS 13 或更新版本**。当前安装包不支持 Intel Mac、Windows 或手机。
+当前版本为 **v0.5.2 预览版**，支持 **Apple Silicon（M 系列）Mac，macOS 13 或更新版本**。当前安装包不支持 Intel Mac、Windows 或手机。
 
-1. 在 [Releases](https://github.com/JavaApes/yuan/releases/tag/v0.5.0) 下载 `.dmg` 文件。
+1. 在 [Releases](https://github.com/JavaApes/yuan/releases/tag/v0.5.2) 下载 `.dmg` 文件。
 2. 打开 DMG，将 `Yuan.app` 拖入 `Applications`。
 3. 弹出安装磁盘，从“应用程序”打开 Yuan。
 4. 在 **Agent 设置 → 模型与思考** 中填写自己的 API Key。

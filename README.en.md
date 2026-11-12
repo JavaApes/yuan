@@ -1,12 +1,19 @@
 # Yuan · Your investment learning companion
 
+## v0.5.2 · 2026-11-12
+
+The second public preview is available, with the new research home, reading notes, memory and scheduled tasks. This release distributes documentation and the installer only. It uses an ad-hoc signature, without a Developer ID certificate or Apple notarization.
+
+[Release notes and download](https://github.com/JavaApes/yuan/releases/tag/v0.5.2)
+
+
 [简体中文](README.md) | **English**
 
 Yuan is a **desktop Agent for personal investment learning and company research**. It uses language models and research tools to retrieve public financial reports, analyze business data, and organize findings alongside your own sources.
 
 **Bring your own API Key.** Yuan does not provide shared keys or model credits.
 
-**[Download](https://github.com/JavaApes/yuan/releases/tag/v0.5.0) · [Installation guide (Chinese)](INSTALL.md) · [Changelog (Chinese)](CHANGELOG.md)**
+**[Download](https://github.com/JavaApes/yuan/releases/tag/v0.5.2) · [Installation guide (Chinese)](INSTALL.md) · [Changelog (Chinese)](CHANGELOG.md)**
 
 ## Why Yuan?
 
@@ -32,11 +39,11 @@ The local development build includes Chinese and English interfaces. Open **Agen
 
 The Agent can respond in any language you request or use. The interface language is only its fallback. The English default `AGENTS.md` follows the same policy; custom instructions are preserved.
 
-**The existing public v0.5.0 download has not yet been replaced with this bilingual build.** The language controls above apply to the updated local build.
+**The v0.5.2 public preview includes the bilingual interface described above.**
 
 ## Screenshots
 
-These are actual screenshots of the updated local development build with **English selected**, captured with isolated test data. They preview the English interface; they are not financial-analysis responses or evidence of live model calls. The public v0.5.0 installer has not yet been replaced with this build.
+These are actual screenshots of the updated local development build with **English selected**, captured with isolated test data. They preview the English interface; they are not financial-analysis responses or evidence of live model calls. These earlier preview screenshots are retained as examples; layout details may differ in v0.5.2.
 
 ### English home and research tools
 
@@ -52,9 +59,9 @@ Organize sources, notes and exercises around a research question.
 
 ## Download and install
 
-The public release is **v0.5.0 preview**, for **Apple Silicon Macs running macOS 13 or later**. The package does not support Intel Macs, Windows or phones.
+The public release is **v0.5.2 preview**, for **Apple Silicon Macs running macOS 13 or later**. The package does not support Intel Macs, Windows or phones.
 
-1. Download the `.dmg` from [Releases](https://github.com/JavaApes/yuan/releases/tag/v0.5.0).
+1. Download the `.dmg` from [Releases](https://github.com/JavaApes/yuan/releases/tag/v0.5.2).
 2. Open it and drag `Yuan.app` into `Applications`.
 3. Eject the installation disk and open Yuan from Applications.
 4. Enter your API Key under Agent settings → Models & reasoning. In the current public Chinese interface, this is **Agent 设置 → 模型与思考**.

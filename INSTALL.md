@@ -9,11 +9,11 @@
 
 ## 安装
 
-从 [Releases](https://github.com/JavaApes/yuan/releases/tag/v0.5.0) 下载 DMG，打开后将 Yuan.app 拖到 Applications，再弹出镜像，从“应用程序”启动。
+从 [Releases](https://github.com/JavaApes/yuan/releases/tag/v0.5.2) 下载 DMG，打开后将 Yuan.app 拖到 Applications，再弹出镜像，从“应用程序”启动。
 
 ## 首次打开时的系统提示
 
-v0.5.0 当前公开包采用本地临时签名，未经 Apple Developer ID 正式签名和 Apple 公证。
+v0.5.2 当前公开包采用本地临时签名，未经 Apple Developer ID 正式签名和 Apple 公证。
 
 如果 macOS 提示无法验证开发者，先确认文件来自本仓库的 Release。尝试打开后，可在 **系统设置 → 隐私与安全性** 找到此次拦截提示，选择 **仍要打开**。部分组织管理的 Mac 不允许此操作。
 
