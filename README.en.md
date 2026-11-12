@@ -1,4 +1,10 @@
-# Yuan · Your investment learning companion
+# Yuan · Your personal investing agent
+
+[简体中文](README.md) | **English**
+
+[English website](https://tickerval.com/apps/yuan/) · [Chinese website](https://tickerval.com/zh-cn/apps/yuan/)
+
+**[Download v0.5.2 for Apple Silicon Mac](https://github.com/JavaApes/yuan/releases/download/v0.5.2/Yuan-0.5.2-macOS-AppleSilicon.dmg) · [Install & get started](INSTALL.en.md) · [Changelog](CHANGELOG.en.md)**
 
 ## v0.5.2 · 2026-11-12
 
@@ -7,13 +13,11 @@ The second public preview is available, with the new research home, reading note
 [Release notes and download](https://github.com/JavaApes/yuan/releases/tag/v0.5.2)
 
 
-[简体中文](README.md) | **English**
-
 Yuan is a **desktop Agent for personal investment learning and company research**. It uses language models and research tools to retrieve public financial reports, analyze business data, and organize findings alongside your own sources.
 
-**Bring your own API Key.** Yuan does not provide shared keys or model credits.
+**The app is free to download and use. Bring your own API key for AI features.** Yuan does not provide shared keys or model credits. Model and other third-party service charges, if any, are billed by their providers.
 
-**[Download](https://github.com/JavaApes/yuan/releases/tag/v0.5.2) · [Installation guide (Chinese)](INSTALL.md) · [Changelog (Chinese)](CHANGELOG.md)**
+**[Download](https://github.com/JavaApes/yuan/releases/tag/v0.5.2) · [Installation guide](INSTALL.en.md) · [Changelog](CHANGELOG.en.md)**
 
 ## Why Yuan?
 
@@ -29,13 +33,13 @@ Yuan grew from that need. I want it to help me understand questions and preserve
 - **Read your sources:** import documents, ask questions about the original text and take notes.
 - **Research companies:** organize research projects, research cards and financial data.
 - **Keep your learning:** save learning notes, plans and conversations, then continue after restarting.
-- **Configure models:** use your own provider API Key, choose available models and reasoning levels, and control web research separately.
+- **Configure models:** use your own provider API Key, choose available models and reasoning levels, and use web tools when research calls for them.
 
 ## Language
 
 This repository's documentation is available in Chinese and English. Use the links at the top of either README to switch.
 
-The local development build includes Chinese and English interfaces. Open **Agent settings → Interface language** and choose **English** or **中文**. The choice applies immediately without an Apply button, confirmation or reload. The settings window, chat drafts and unsaved edits stay in place, and the choice persists after restarting. English navigation uses concise labels that fit a narrow sidebar. Your documents, notes and past conversations keep their original language.
+The v0.5.2 public preview includes Chinese and English interfaces. Open **Agent settings → Interface language** and choose **English** or **中文**. The choice applies immediately without an Apply button, confirmation or reload. The settings window, chat drafts and unsaved edits stay in place, and the choice persists after restarting. English navigation uses concise labels that fit a narrow sidebar. Your documents, notes and past conversations keep their original language.
 
 The Agent can respond in any language you request or use. The interface language is only its fallback. The English default `AGENTS.md` follows the same policy; custom instructions are preserved.
 
@@ -64,11 +68,11 @@ The public release is **v0.5.2 preview**, for **Apple Silicon Macs running macOS
 1. Download the `.dmg` from [Releases](https://github.com/JavaApes/yuan/releases/tag/v0.5.2).
 2. Open it and drag `Yuan.app` into `Applications`.
 3. Eject the installation disk and open Yuan from Applications.
-4. Enter your API Key under Agent settings → Models & reasoning. In the current public Chinese interface, this is **Agent 设置 → 模型与思考**.
+4. Choose **English** in **Agent settings → Interface language**, then enter your own API key in the model settings. If the app opens in Chinese, use **Agent 设置 → 界面语言 / Language** first.
 
 No Node.js, Electron or developer tools need to be installed separately.
 
-**The public package is not Developer ID signed or notarized by Apple.** macOS may block its first launch. Read the [installation guide (Chinese)](INSTALL.md#首次打开时的系统提示) before proceeding. Organization-managed Macs may prohibit unnotarized apps.
+**The public package is not Developer ID signed or notarized by Apple.** macOS may block its first launch. Read the [English installation guide](INSTALL.en.md#first-launch-and-macos-security) before proceeding. Organization-managed Macs may prohibit unnotarized apps.
 
 ## Data and privacy
 
@@ -90,6 +94,6 @@ Yuan is built on the [pi framework](https://github.com/earendil-works/pi). Thank
 
 ## Feedback
 
-Report issues through [GitHub Issues](https://github.com/JavaApes/yuan/issues). Include your macOS version, chip, Yuan version, steps to reproduce and redacted screenshots.
+Send feedback to [haokami6688@buttondown.email](mailto:haokami6688@buttondown.email) or report issues through [GitHub Issues](https://github.com/JavaApes/yuan/issues). Include your macOS version, chip, Yuan version, steps to reproduce and redacted screenshots.
 
 Yuan supports investment learning and research. AI answers can be wrong; check original sources and form your own judgment.

@@ -1,5 +1,11 @@
 # 版本记录
 
+**简体中文** | [English](CHANGELOG.en.md)
+
+[中文官网](https://tickerval.com/zh-cn/apps/yuan/) · [English website](https://tickerval.com/apps/yuan/)
+
+[产品介绍](README.md) · [安装与使用](INSTALL.md) · [下载](https://github.com/JavaApes/yuan/releases/tag/v0.5.2)
+
 ## v0.5.2 · 2026-11-12
 
 第二次公开预览版。

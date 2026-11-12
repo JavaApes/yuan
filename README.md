@@ -1,4 +1,10 @@
-# Yuan · 小元陪你学懂投资
+# Yuan · 你的个人投资 Agent
+
+**简体中文** | [English](README.en.md)
+
+[中文官网](https://tickerval.com/zh-cn/apps/yuan/) · [English website](https://tickerval.com/apps/yuan/)
+
+**[下载 v0.5.2 · Apple Silicon Mac](https://github.com/JavaApes/yuan/releases/download/v0.5.2/Yuan-0.5.2-macOS-AppleSilicon.dmg) · [安装与使用](INSTALL.md) · [版本记录](CHANGELOG.md)**
 
 ## v0.5.2 · 2026-11-12
 
@@ -7,11 +13,9 @@
 [版本说明与下载](https://github.com/JavaApes/yuan/releases/tag/v0.5.2)
 
 
-**简体中文** | [English](README.en.md)
-
 Yuan 是面向个人投资学习与公司研究的 **终端 Agent**。通过对话调用 LLM 和研究工具，获取公开财报、分析公司经营数据，并结合自己的资料整理研究成果。
 
-**使用前需要自备 API Key。** Yuan 不提供共享密钥或模型额度
+**App 免费下载和使用。使用 AI 前需要自备 API Key。** Yuan 不提供共享密钥或模型额度；模型及其他第三方服务如有费用，由对应供应商计费。
 
 **[下载安装包](https://github.com/JavaApes/yuan/releases/tag/v0.5.2) · [安装与使用](INSTALL.md) · [版本记录](CHANGELOG.md)**
 
@@ -29,7 +33,7 @@ Yuan 就是从这个需求出发做的。我希望它能陪我把问题弄懂，
 - **资料阅读**：导入自己的资料，结合原文提问、记录笔记。
 - **公司研究**：整理研究项目、研究卡与财务数据。
 - **学习积累**：保存学习成果、计划和对话，重启后继续。
-- **模型配置**：使用自己的模型服务 API Key，管理可用模型与思考强度；联网研究可单独控制。
+- **模型配置**：使用自己的模型服务 API Key，管理可用模型与思考强度，按研究需要使用联网工具。
 
 ## 语言
 
@@ -96,6 +100,6 @@ Yuan 基于 [pi 框架](https://github.com/earendil-works/pi) 开发。非常感
 
 ## 反馈
 
-欢迎通过 [Issues](https://github.com/JavaApes/yuan/issues) 反馈问题。请说明 macOS 版本、芯片型号、Yuan 版本、复现步骤，并提供脱敏截图。
+欢迎发送邮件至 [haokami6688@buttondown.email](mailto:haokami6688@buttondown.email)，或通过 [Issues](https://github.com/JavaApes/yuan/issues) 反馈问题。请说明 macOS 版本、芯片型号、Yuan 版本、复现步骤，并提供脱敏截图。
 
 Yuan 用于投资学习和研究辅助。AI 回答可能出错，请核对原始来源并独立判断。
